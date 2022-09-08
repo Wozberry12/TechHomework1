@@ -1,2 +1,3 @@
-# TechHomework1
-Editing any code directly on GitHub is ill-advised.
+# Techhomework For Introduction to Mobile Development
+Professor Karl Morris
+Kotlin! Java! SDK!
